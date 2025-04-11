@@ -13,8 +13,8 @@ export const dataFake = [
   },
   {
     "id":"3",
-    "title": "One Piece volta em 6 de abril de 2025.",
-    "description": " A data foi confirmada durante a Jump Festa 2025.",
+    "title": "Maior visualização do dia 6 de abril de 2025.",
+    "description": " Com o retorno de One Piece a internet parou confirmada durante a Jump Festa 2025.",
     "photoCover":"https://www.acidadeon.com/tudoep/wp-content/uploads/sites/10/2023/12/one_piece_1200x675_07082023172751.jpg"
   },
   {
